@@ -2,6 +2,8 @@
 
 A course and hackathon hosted by PDC, ENCCS, CodeRefinery, CSC, and Aalto Scientific Computing
 
+**Links to the course material will be added for each lesson**
+
 # Schedule
 
 Tuesday 8th October
