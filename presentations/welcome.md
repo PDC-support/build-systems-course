@@ -53,7 +53,7 @@ https://www.pdc.kth.se/about/events/build-systems-course-and-hackathon-part-i-1.
 # Where to run exercises?
 
 - On the Dardel supercomputer.
-   - For running exercises and simulations on the Dardel computer we have set up a time allocation edu24.build for. This allocation will be active until 15 November.
+   - For running exercises and simulations on the Dardel computer we have set up a time allocation edu24.build. This allocation will be active until 15 November.
 
 - On another supercomputer/cluster
 
@@ -103,4 +103,4 @@ https://www.pdc.kth.se/about/events/build-systems-course-and-hackathon-part-i-1.
 - 10:00 – 10:50 **Containers and MPI/GPU** (Simo Tuomisto and Jaan Tollander de Balsch)
 - 10:50 – 11:00 Break
 - 11:00 – 11:45 **Best practices for sharing reproducible containers** (Maiken Pedersen and Radovan Bast)
-- 11:45 – 12:00 Wrap up of lesson & concluding remarks
+- 11:45 – 12:00 Wrap up of the course & concluding remarks
