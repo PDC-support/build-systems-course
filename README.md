@@ -23,7 +23,7 @@ Wednesday 9th October
 - 09:50 – 10:00 Break
 - 10:00 – 10:50 [Target-based build systems with CMake](https://enccs.github.io/intro-cmake/targets/) (Yonglei Wang)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 [Probing compilation], linking, and execution](https://enccs.github.io/intro-cmake/probing/). [Finding and using dependencies](https://enccs.github.io/intro-cmake/dependencies/) (Qiang Li)
+- 11:00 – 12:00 [Probing compilation, linking, and execution](https://enccs.github.io/intro-cmake/probing/). [Finding and using dependencies](https://enccs.github.io/intro-cmake/dependencies/) (Qiang Li)
 
 Thursday 10th October
 
