@@ -28,11 +28,11 @@ Wednesday 9th October
 Thursday 10th October
 
 - 08:50 – 09:00 Soft start
-- 09:00 – 09:50 Spack (Peter Larsson, Johan Hellsvik)
+- 09:00 – 09:50 Spack (Peter Larsson)
 - 09:50 – 10:00 Break
-- 10:00 – 10:50 Spack (Peter Larsson, Johan Hellsvik)
+- 10:00 – 10:50 Spack (Peter Larsson)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 EasyBuild (Johan Hellsvik, Henric Zazzi)
+- 11:00 – 12:00 EasyBuild (Henric Zazzi)
 
 Friday 11th October
 

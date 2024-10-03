@@ -87,11 +87,11 @@ https://www.pdc.kth.se/about/events/build-systems-course-and-hackathon-part-i-1.
 # Thursday 10th October - Spack and EasyBuild
 
 - 08:50 – 09:00 Soft start
-- 09:00 – 09:50 **Spack** (Peter Larsson, Johan Hellsvik)
+- 09:00 – 09:50 **Spack** (Peter Larsson)
 - 09:50 – 10:00 Break
-- 10:00 – 10:50 **Spack** (Peter Larsson, Johan Hellsvik)
+- 10:00 – 10:50 **Spack** (Peter Larsson)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 **EasyBuild** (Johan Hellsvik, Henric Zazzi)
+- 11:00 – 12:00 **EasyBuild** (Henric Zazzi)
 
 ---
 
