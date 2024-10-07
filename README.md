@@ -15,7 +15,7 @@ Tuesday 8th October
 - 09:50 – 10:00 Break
 - 10:00 – 10:50 make (Bjørn Lindi)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 [autotools](https://github.com/PDC-support/introduction-to-autotools.git) (Mikael Djurfeldt)
+- 11:00 – 12:00 [autotools](https://github.com/PDC-support/introduction-to-autotools.git) (Mikael Djurfeldt) ([git repository](https://github.com/PDC-support/introduction-to-autotools.git), [PDF](https://github.com/PDC-support/introduction-to-autotools/raw/main/README.pdf))
 
 Wednesday 9th October
 
