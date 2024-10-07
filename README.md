@@ -13,7 +13,7 @@ Tuesday 8th October
 - 09:00 – 09:10 Welcome and introduction
 - 09:10 – 09:50 Compilers/Linkers/Libraries (Johan Hellsvik)
 - 09:50 – 10:00 Break
-- 10:00 – 10:50 make (Bjørn Lindi)
+- 10:00 – 10:50 [make](https://coderefinery.github.io/make-lesson/index.html) (Bjørn Lindi)
 - 10:50 – 11:00 Break
 - 11:00 – 12:00 [autotools](https://github.com/PDC-support/introduction-to-autotools.git) (Mikael Djurfeldt)
 
