@@ -19,11 +19,11 @@ Tuesday 8th October
 Wednesday 9th October
 
 - 08:50 – 09:00 Soft start
-- 09:00 – 09:50 From sources to executables, CMake syntax (Yonglei Wang)
+- 09:00 – 09:50 [From sources to executables](https://enccs.github.io/intro-cmake/hello-cmake/), [CMake syntax](https://enccs.github.io/intro-cmake/cmake-syntax/) (Yonglei Wang)
 - 09:50 – 10:00 Break
-- 10:00 – 10:50 Target-based build systems with CMake (Yonglei Wang)
+- 10:00 – 10:50 [Target-based build systems with CMake](https://enccs.github.io/intro-cmake/targets/) (Yonglei Wang)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 Probing compilation, linking, and execution. Finding and using dependencies (Qiang Li)
+- 11:00 – 12:00 [Probing compilation, linking, and execution](https://enccs.github.io/intro-cmake/probing/). [Finding and using dependencies](https://enccs.github.io/intro-cmake/dependencies/) (Qiang Li)
 
 Thursday 10th October
 
