@@ -5,6 +5,7 @@ A course and hackathon hosted by PDC, ENCCS, CodeRefinery, CSC, and Aalto Scient
 **Links to the course material will be added for each lesson**
 
 # Schedule
+### Times are in UTC+2 (Central European Summer Time (CEST) )
 
 Tuesday 8th October
 
