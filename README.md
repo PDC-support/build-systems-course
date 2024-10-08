@@ -11,7 +11,7 @@ Tuesday 8th October
 
 - 08:50 – 09:00 Soft start
 - 09:00 – 09:10 Welcome and introduction
-- 09:10 – 09:50 Compilers/Linkers/Libraries (Johan Hellsvik)
+- 09:10 – 09:50 [Compilers/Linkers/Libraries](https://github.com/PDC-support/comp-link-lib/blob/main/comp-link-lib.pdf) (Johan Hellsvik)
 - 09:50 – 10:00 Break
 - 10:00 – 10:50 [make](https://coderefinery.github.io/make-lesson/index.html) (Bjørn Lindi)
 - 10:50 – 11:00 Break
