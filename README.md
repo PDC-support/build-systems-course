@@ -7,7 +7,7 @@ A course and hackathon hosted by PDC, ENCCS, CodeRefinery, CSC, and Aalto Scient
 # Schedule
 ### Times are in UTC+2 (Central European Summer Time (CEST) )
 
-Tuesday 8th October
+#### Tuesday 8th October
 
 - 08:50 – 09:00 Soft start
 - 09:00 – 09:10 [Welcome and introduction](https://github.com/PDC-support/build-systems-course/blob/main/presentations/welcome.pdf)
@@ -17,7 +17,7 @@ Tuesday 8th October
 - 10:50 – 11:00 Break
 - 11:00 – 12:00 [autotools](https://github.com/PDC-support/introduction-to-autotools.git) ([git repository](https://github.com/PDC-support/introduction-to-autotools.git), [PDF](https://github.com/PDC-support/introduction-to-autotools/raw/main/README.pdf)) (Mikael Djurfeldt)
 
-Wednesday 9th October
+#### Wednesday 9th October
 
 - 08:50 – 09:00 Soft start
 - 09:00 – 09:50 [From sources to executables](https://enccs.github.io/intro-cmake/hello-cmake/), [CMake syntax](https://enccs.github.io/intro-cmake/cmake-syntax/) (Yonglei Wang)
@@ -26,7 +26,7 @@ Wednesday 9th October
 - 10:50 – 11:00 Break
 - 11:00 – 12:00 [Probing compilation, linking, and execution](https://enccs.github.io/intro-cmake/probing/). [Finding and using dependencies](https://enccs.github.io/intro-cmake/dependencies/) (Qiang Li)
 
-Thursday 10th October
+#### Thursday 10th October
 
 - 08:50 – 09:00 Soft start
 - 09:00 – 09:50 Spack (Peter Larsson)
@@ -35,7 +35,7 @@ Thursday 10th October
 - 10:50 – 11:00 Break
 - 11:00 – 12:00 EasyBuild (Henric Zazzi)
 
-Friday 11th October
+#### Friday 11th October
 
 - 08:50 – 09:00 Soft start
 - 09:00 – 09:50 Overview and building containers (Simo Tuomisto and Jaan Tollander de Balsch)
@@ -44,3 +44,7 @@ Friday 11th October
 - 10:50 – 11:00 Break
 - 11:00 – 11:45 Best practices for sharing reproducible containers (Maiken Pedersen and Radovan Bast)
 - 11:45 – 12:00 Wrap up of lesson & concluding remarks
+
+#### Questions and answers in the collaborative document
+
+- [Q&A 8 October](https://github.com/PDC-support/build-systems-course/blob/main/collaborativedoc/collaborativedoc8oct.md)
