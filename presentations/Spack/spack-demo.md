@@ -2,7 +2,7 @@
 
 Commands:
 
-    git clone -c feature.manyFiles=true --depth=2 https://github.com/spack/spack.git spack.0.23.0
+    git clone -c feature.manyFiles=true --depth=2 https://github.com/spack/spack.git spack
     . spack/share/spack/setup-env.sh
     which spack
     spack arch
