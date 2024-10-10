@@ -33,16 +33,16 @@ A course and hackathon hosted by PDC, ENCCS, CodeRefinery, CSC, and Aalto Scient
 - 09:50 – 10:00 Break
 - 10:00 – 10:50 [Spack](https://github.com/PDC-support/build-systems-course/blob/main/presentations/Spack/SpackLecture1.pdf) (Peter Larsson)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 [EasyBuild](https://github.com/PDC-support/build-systems-course/blob/main/presentations/easybuild/easybuild.pdf)  (Henric Zazzi)
+- 11:00 – 12:00 [EasyBuild](https://github.com/PDC-support/build-systems-course/blob/main/presentations/easybuild/easybuild.pdf) (Henric Zazzi)
 
 #### Friday 11th October
 
 - 08:50 – 09:00 Soft start
-- 09:00 – 09:50 [Overview and building containers](https://coderefinery.github.io/hpc-containers/) (Simo Tuomisto and Jaan Tollander de Balsch)
+- 09:00 – 09:50 [Overview](https://coderefinery.github.io/hpc-containers/intro_and_motivation/) and [building containers](https://coderefinery.github.io/hpc-containers/building_images/) (Jaan Tollander de Balsch)
 - 09:50 – 10:00 Break
-- 10:00 – 10:50 [Containers and MPI/GPU](https://coderefinery.github.io/hpc-containers/) (Simo Tuomisto and Jaan Tollander de Balsch)
+- 10:00 – 10:50 Containers and [MPI](https://coderefinery.github.io/hpc-containers/mpi/)/[GPU](https://coderefinery.github.io/hpc-containers/gpus/) (Simo Tuomisto)
 - 10:50 – 11:00 Break
-- 11:00 – 11:45 [Best practices for sharing reproducible containers](https://coderefinery.github.io/hpc-containers/) (Maiken Pedersen and Radovan Bast)
+- 11:00 – 11:45 [Best practices for sharing reproducible containers](https://coderefinery.github.io/hpc-containers/sharing/) (Maiken Pedersen and Radovan Bast)
 - 11:45 – 12:00 Wrap up of lesson & concluding remarks
 
 #### Questions and answers in the collaborative document
