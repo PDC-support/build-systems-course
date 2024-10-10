@@ -33,7 +33,7 @@ A course and hackathon hosted by PDC, ENCCS, CodeRefinery, CSC, and Aalto Scient
 - 09:50 – 10:00 Break
 - 10:00 – 10:50 [Spack](https://github.com/PDC-support/build-systems-course/blob/main/presentations/Spack/SpackLecture1.pdf) (Peter Larsson)
 - 10:50 – 11:00 Break
-- 11:00 – 12:00 [EasyBuild](https://github.com/PDC-support/build-systems-course/blob/main/presentations/easybuild/easybuild.pdf)  (Henric Zazzi)
+- 11:00 – 12:00 [EasyBuild](https://github.com/PDC-support/build-systems-course/blob/main/presentations/easybuild/easybuild.pdf) (Henric Zazzi)
 
 #### Friday 11th October
 
