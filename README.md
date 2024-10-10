@@ -38,11 +38,11 @@ A course and hackathon hosted by PDC, ENCCS, CodeRefinery, CSC, and Aalto Scient
 #### Friday 11th October
 
 - 08:50 – 09:00 Soft start
-- 09:00 – 09:50 Overview and building containers (Simo Tuomisto and Jaan Tollander de Balsch)
+- 09:00 – 09:50 [Overview](https://coderefinery.github.io/hpc-containers/intro_and_motivation/) and [building containers](https://coderefinery.github.io/hpc-containers/building_images/) (Jaan Tollander de Balsch)
 - 09:50 – 10:00 Break
-- 10:00 – 10:50 Containers and MPI/GPU (Simo Tuomisto and Jaan Tollander de Balsch)
+- 10:00 – 10:50 Containers and [MPI](https://coderefinery.github.io/hpc-containers/mpi/)/[GPU](https://coderefinery.github.io/hpc-containers/gpus/) (Simo Tuomisto)
 - 10:50 – 11:00 Break
-- 11:00 – 11:45 Best practices for sharing reproducible containers (Maiken Pedersen and Radovan Bast)
+- 11:00 – 11:45 [Best practices for sharing reproducible containers](https://coderefinery.github.io/hpc-containers/sharing/) (Maiken Pedersen and Radovan Bast)
 - 11:45 – 12:00 Wrap up of lesson & concluding remarks
 
 #### Questions and answers in the collaborative document
