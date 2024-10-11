@@ -47,6 +47,7 @@ A course and hackathon hosted by PDC, ENCCS, CodeRefinery, CSC, and Aalto Scient
 
 #### Questions and answers in the collaborative document
 
-- [Q&A 8 October](https://github.com/PDC-support/build-systems-course/blob/main/collaborativedoc/collaborativedoc8oct.md)
-- [Q&A 9 October](https://github.com/PDC-support/build-systems-course/blob/main/collaborativedoc/collaborativedoc9oct.md)
-- [Q&A 10 October](https://github.com/PDC-support/build-systems-course/blob/main/collaborativedoc/collaborativedoc10oct.md)
+- [Q&A 8 October](collaborativedoc/collaborativedoc8oct.md)
+- [Q&A 9 October](collaborativedoc/collaborativedoc9oct.md)
+- [Q&A 10 October](collaborativedoc/collaborativedoc10oct.md)
+- [Q&A 11 October](collaborativedoc/collaborativedoc11oct.md)
