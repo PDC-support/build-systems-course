@@ -104,3 +104,19 @@ https://www.pdc.kth.se/about/events/build-systems-course-and-hackathon-part-i-1.
 - 10:50 – 11:00 Break
 - 11:00 – 11:45 **Best practices for sharing reproducible containers** (Maiken Pedersen and Radovan Bast)
 - 11:45 – 12:00 Wrap up of the course & concluding remarks
+
+---
+
+# Concluding remarks
+
+- Thank you for attending the course!
+
+- The collaborative notes for first three days are uploaded to the course git repository. For follow-up questions on the topics of the course, please interact in the collaborative document that we will keep open till Wednesday next week
+
+- Support channels at HPC centers in Nordic countries
+  - Sweden: NAISS https://supr.naiss.se/support/
+  - Norway: Sigma2 https://www.sigma2.no/user-support
+  - Finland:
+    - CSC https://docs.csc.fi/support/contact/
+    - Aalto Scientific Computing https://scicomp.aalto.fi
+    - LUMI Supercomputer https://lumi-supercomputer.eu/user-support/need-help/
